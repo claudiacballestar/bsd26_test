@@ -1,10 +1,10 @@
-# bsd26_test
+# Information about the Author
 
-Testing how can I put this File 
-again in GitHub
+## Link zur GitHub Profilseite
+[Git Hub Profile](https://github.com/claudiacballestar)
 
-Hopefully it works :)
+## Link zu Ihrer Hochschule
+[Campus 02](https://www.campus02.at/)
+[Kunst Uni Graz](https://www.kug.ac.at/)
 
-this next step here (line 8) -> was directly written in Github
-let's put it in my computer :D
-cambiando con nano (como en valencia)X
+
