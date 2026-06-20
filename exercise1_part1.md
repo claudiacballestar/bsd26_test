@@ -1,6 +1,6 @@
 # Recommender
 
-![Films](foto1.png)
+![Films](images/foto1.png)
 
 ## Description
 

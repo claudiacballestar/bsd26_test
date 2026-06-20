@@ -17,3 +17,5 @@ First document in Mark Down - readme of a Recommender java project
 - upload an .gitignore File in GitHub Reposistory
 
 3) [Exercise1 Part3](exercise1_part3.md)
+![foto command git status](images/ex1_3.png)
+
