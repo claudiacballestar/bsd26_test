@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0175c7d0-bc24-439e-a46b-55938391d341" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/exercise1_part2.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtext.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bsd26_canamero_ballestar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bsd26_canamero_ballestar/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "init__project",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/claudiacanameroballestar/Desktop/Campus02/2Semester/konfmanagement/UB1/bsd26_CanameroBallestar_Claudia/bsd26_canamero_claudia/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
